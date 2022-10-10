@@ -1,8 +1,8 @@
-@media (min-width: 1440px) {
+@media (min-width: 1024px) {
   .card-container {
     flex-direction: row;
     width: fit-content;
-    margin: 165px 177px;
+    margin: 165px 0px;
     max-width: 1110px;
     height: 446px;
   }
@@ -17,11 +17,7 @@
     height: 100%;
   }
 
-  .header-img-mobile {
-    display: none;
-  }
-
-  .header-img-desktop {
+  picture img {
     display: block;
     height: 100%;
     width: auto;
