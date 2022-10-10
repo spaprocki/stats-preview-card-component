@@ -124,7 +124,7 @@ picture img {
   line-height: 25px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: var(--soft-violet);
+  color: var(--slightly-transparent-white-header);
   margin-top: 2px;
 }
 
